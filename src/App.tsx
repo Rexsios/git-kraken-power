@@ -9,10 +9,14 @@ function App() {
   console.log('ficzer1-2');
   console.log('ficzer1-3');
 
-  console.log('ficzer3')
+  console.log('ficzer3');
   console.log('ficzer2');
   console.log('ficzer2-1');
   console.log('ficzer2-2');
+
+  console.log('ficzer23123');
+
+  console.log('ficzer');
   return (
     <div className="App">
       <header className="App-header">
