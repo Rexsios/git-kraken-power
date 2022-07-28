@@ -4,6 +4,10 @@ import './App.css';
 
 function App() {
   console.log('first');
+
+  console.log('ficzer1-1');
+  console.log('ficzer1-2');
+  console.log('ficzer1-3');
   return (
     <div className="App">
       <header className="App-header">
