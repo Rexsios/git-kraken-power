@@ -11,6 +11,7 @@ function App() {
 
   console.log('ficzer3')
   console.log('ficzer2');
+  console.log('ficzer2-1');
   return (
     <div className="App">
       <header className="App-header">
