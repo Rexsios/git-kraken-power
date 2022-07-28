@@ -8,6 +8,8 @@ function App() {
   console.log('ficzer1-1');
   console.log('ficzer1-2');
   console.log('ficzer1-3');
+
+  console.log('ficzer3')
   return (
     <div className="App">
       <header className="App-header">
